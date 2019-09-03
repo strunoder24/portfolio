@@ -12,7 +12,7 @@
 **CURRENT STATE:** At the start of service was working as documentation store for studio projects.
 # Description
 
-**Projects dashboard ([See this component as a code example](1.Searchlight/code_example.vue))**
+**Projects dashboard ([See this component as a code example](/1.Searchlight/code_example.vue))**
 
 The main service entity is _project_. Project has _pages_.
 
