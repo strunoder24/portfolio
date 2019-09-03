@@ -1,15 +1,15 @@
 # SEARCHLIGHT
 
-**TASK:** Create service for internal documentation with an opportunity to evolve it to product state.
+**GOAL:** Create service for internal documentation with an opportunity to evolve it to product state.
 
-**USED TECHNOLOGIES:**
+**TECHNOLOGIES:**
 
 * **Frontend:** vue.js + vuex
 
 * **Backend:** Django + drf
 
 
-**CURRENT STATE:** At the start of service was working as documentation store for studio projects.
+**RESULT:** At the start of service was working as documentation store for studio projects.
 # Description
 
 **Projects dashboard ([See this component as a code example](/1.Searchlight/code_example.vue))**
