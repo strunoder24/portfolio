@@ -1,5 +1,5 @@
-Зайдите в папку Ru или En для того чтобы увидеть проект на соотвествующих языках
+Зайдите в папку Ru или En для того чтобы увидеть описание на соотвествующих языках.
 
 ---
 
-Proceed to En of Ru folder to check project description 
+Proceed to en or ru folder to check project description.
