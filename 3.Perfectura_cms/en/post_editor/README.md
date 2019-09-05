@@ -32,7 +32,7 @@ After sections being marked, you can start to add content.
 
 **Widget picking popup**
 
-Available widgets are listed in config above. System is easy to expand by adding new widgets. 
+Available widgets are listed in config above. It mostly depends on a section size. 
 
 ![](../../static/post_editor/04.png)
 
@@ -45,8 +45,6 @@ Available widgets are listed in config above. System is easy to expand by adding
 ---
 
 **Drag&Drop example**
-
-Также есть возможность скопировать и вставить виджеты и сами секции.
 
 At any moment widgets can be draged between sections (if section can accept that type of widget).
 Sections also can be dragged between each other. Copy-paste system for all elements is also included.
