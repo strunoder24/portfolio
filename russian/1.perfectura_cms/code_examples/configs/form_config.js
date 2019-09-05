@@ -1,7 +1,5 @@
 /*
     Пример конфига по которому генерируются формы
-    -------------------------------------------------
-    Sample of a config file which used to render forms
 */
 
 const state = {
