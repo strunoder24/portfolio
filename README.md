@@ -1,8 +1,10 @@
 ## Portfolio
 Здесь вы можете увидеть проекты над которыми я работал на комерческой основе с примерами кода.
-Выберете любую папку выше для получения дальнейших инструкций.
+
+Выберите [эту](/russian) папку если ваш язык Русский.
 
 ---
 
 Here you can see my commercial projects with code examples. 
-Just pick the folder above for further instructions. 
+
+Pick [this](/english) if your language is English. 
