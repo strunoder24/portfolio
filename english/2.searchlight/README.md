@@ -12,7 +12,7 @@
 **RESULT:** At the start of service was working as documentation store for studio projects.
 # Description
 
-[screencast on youtube](https://www.youtube.com/watch?v=iq5BHQian9I)
+[Screencast on youtube](https://www.youtube.com/watch?v=iq5BHQian9I)
 
 **Projects dashboard ([See this component as a code example](/english/2.searchlight/code_example.vue))**
 
