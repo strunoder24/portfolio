@@ -14,7 +14,7 @@
 
 # Описание
 
-[Скринкаст youtube](https://www.youtube.com/watch?v=iq5BHQian9I)
+[Скринкаст на youtube](https://www.youtube.com/watch?v=iq5BHQian9I)
 
 **Дашборд проектов ([Этот компонент в качестве примера](/russian/2.searchlight/code_example.vue))**
 
