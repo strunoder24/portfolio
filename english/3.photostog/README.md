@@ -12,9 +12,9 @@ Work with store should be intuitive.
 
 **RESULT:** System is successfully introduced and being used by customer.
 
-[Screencast on youtube](https://www.youtube.com/watch?v=w8igLTV37rM)
-
 # Description
+
+[Screencast on youtube](https://www.youtube.com/watch?v=w8igLTV37rM)
 
 By contract terms third party studio is engaged in design, but they failed. 
 Everything you see here is made with prototyped design. System is fully functional though.
