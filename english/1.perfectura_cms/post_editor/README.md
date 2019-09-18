@@ -2,7 +2,7 @@
 
 This is a special plugin for cms that let comfortably operate with news cites.
 
-[screencast on youtube](https://www.youtube.com/watch?v=Ciw5GkmsGp8)
+[Screencast on youtube](https://www.youtube.com/watch?v=Ciw5GkmsGp8)
 
 ---
 
