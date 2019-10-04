@@ -24,11 +24,6 @@
 
 ---
 
-```diff
-+ this text is highlighted in green
-- this text is highlighted in red
-```
-
 **Kondik Victor Valerievich**
 
 **Frontend developer, 2 years of experience**
