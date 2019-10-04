@@ -8,6 +8,7 @@
 
 | Технологии   |      Опыт      |
 |:---------|--------------:|
+| **Javascript** | 2 года |
 | **Vue.js** | 2 года |
 | **Webpack** |    2 года   |
 | **Vuex** | 2 года |
@@ -27,6 +28,7 @@
 
 | technologys |  experience  |
 |:---------|--------------:|
+| **Javascript** | 2 years |
 | **Vue.js** |  2 years |
 | **Webpack** |    2 years   |
 | **Vuex** | 2 years |
