@@ -24,7 +24,7 @@
 
 ---
 
-**Kondik Victor Valerievich**
+**Kondik Victor**
 
 **Frontend developer, 2 years of experience**
 
