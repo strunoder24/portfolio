@@ -1,3 +1,7 @@
+```diff
++ В данный момент я ИЩУ работу! / Right now im LOOKING for a job!
+```
+
 <img src="https://avatars1.githubusercontent.com/u/22168010?s=460&v=4" width="30%"></img>
 
 **Кондик Виктор Валерьевич**
@@ -19,6 +23,11 @@
 Выберите [эту](/russian) папку если ваш язык Русский.
 
 ---
+
+```diff
++ this text is highlighted in green
+- this text is highlighted in red
+```
 
 **Kondik Victor Valerievich**
 
