@@ -10,13 +10,16 @@
 
 | Технологии   |      Опыт      |
 |:---------|--------------:|
-| **Javascript** | 2 года |
-| **Vue.js** | 2 года |
-| **Webpack** |    2 года   |
-| **Vuex** | 2 года |
-| **Nuxt.js** | 3 месяца |
+| **Javascript** | 2.5 года |
+| **Vue.js** | 2.5 года |
+| **Webpack** |    2.5 года   |
+| **Vuex** | 2.5 года |
+| **Nuxt.js** | 6 месяцев |
 | **React** | 2 месяца |
 | **Mobx** | 1 месяц |
+| **Node.js** | 3 месяца |
+| **Express** | 3 месяца |
+| **MongoDB** | 3 месяца |
 
 Здесь вы можете увидеть проекты над которыми я работал на комерческой основе с примерами кода.
 
@@ -24,7 +27,7 @@
 
 ---
 
-**Kondik Victor**
+**Kondik Viktor**
 
 **Frontend developer, 2 years of experience**
 
@@ -37,6 +40,9 @@
 | **Nuxt.js** | 3 months |
 | **React** | 2 months |
 | **Mobx** | 1 month |
+| **Node.js** | 3 months |
+| **Express** | 3 months |
+| **MongoDB** | 3 months |
 
 Here you can see my commercial projects with code examples. 
 
