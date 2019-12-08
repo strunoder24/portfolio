@@ -31,7 +31,7 @@
 
 **Frontend developer, 2 years of experience**
 
-| technologys |  experience  |
+| technologies |  experience  |
 |:---------|--------------:|
 | **Javascript** | 2 years |
 | **Vue.js** |  2 years |
