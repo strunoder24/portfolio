@@ -8,18 +8,27 @@
 
 **Frontend разработчик, 2 года опыта**
 
-| Технологии   |      Опыт      |
-|:---------|--------------:|
-| **Javascript** | 2.5 года |
-| **Vue.js** | 2.5 года |
-| **Webpack** |    2.5 года   |
-| **Vuex** | 2.5 года |
-| **Nuxt.js** | 6 месяцев |
-| **React** | 2 месяца |
-| **Mobx** | 1 месяц |
-| **Node.js** | 3 месяца |
-| **Express** | 3 месяца |
-| **MongoDB** | 3 месяца |
+# ТЕХНОЛОГИИ
+
+## Основной стек
+* Javascript
+* Vue.js
+* Vuex
+* Nuxt
+* Jest
+* Vue-test-utils
+
+## Backend технологии
+* Node.js
+* Express
+* MongoDB
+
+## Немного владею
+* Python (3)
+* Django
+* Django-rest-framework
+* Postgress
+* i18n
 
 Здесь вы можете увидеть проекты над которыми я работал на комерческой основе с примерами кода.
 
@@ -31,18 +40,25 @@
 
 **Frontend developer, 2 years of experience**
 
-| technologies |  experience  |
-|:---------|--------------:|
-| **Javascript** | 2 years |
-| **Vue.js** |  2 years |
-| **Webpack** |    2 years   |
-| **Vuex** | 2 years |
-| **Nuxt.js** | 3 months |
-| **React** | 2 months |
-| **Mobx** | 1 month |
-| **Node.js** | 3 months |
-| **Express** | 3 months |
-| **MongoDB** | 3 months |
+## Main stack
+* Javascript
+* Vue.js
+* Vuex
+* Nuxt
+* Jest
+* Vue-test-utils
+
+## Backend techologies
+* Node.js
+* Express
+* MongoDB
+
+## familiar with
+* Python (3)
+* Django
+* Django-rest-framework
+* Postgress
+* i18n
 
 Here you can see my commercial projects with code examples. 
 
