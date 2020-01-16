@@ -6,7 +6,7 @@
 
 **Кондик Виктор Валерьевич**
 
-**Frontend разработчик, 2 года опыта**
+**Frontend разработчик, 2.5 года опыта**
 
 ## Основной стек
 * Javascript
@@ -36,7 +36,7 @@
 
 **Kondik Viktor**
 
-**Frontend developer, 2 years of experience**
+**Frontend developer, 2.5 years of experience**
 
 ## Main stack
 * Javascript
