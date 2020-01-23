@@ -1,5 +1,5 @@
 ```diff
-+ В данный момент я ИЩУ работу! / Right now im LOOKING for a job!
+- В данный момент я НЕ ИЩУ работу! / Right now im NOT LOOKING for a job!
 ```
 
 <img src="https://avatars1.githubusercontent.com/u/22168010?s=460&v=4" width="30%"></img>
