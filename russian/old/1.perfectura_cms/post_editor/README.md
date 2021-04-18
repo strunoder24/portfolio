@@ -20,7 +20,7 @@
 
 Все размеры задаются через простейший конфиг. Все размеры представления высчитываются автоматически.
 
-[Пример файла конфигурации](/russian/1.perfectura_cms/code_examples/configs/posteditor_config.js) 
+[Пример файла конфигурации](/russian/old/1.perfectura_cms/code_examples/configs/posteditor_config.js) 
 
 ![](../static/post_editor/02.png)
 
@@ -36,7 +36,7 @@
 
 **Попап с выбором виджета**
 
-Доступный выбор зависит от настроек [конфига](/russian/1.perfectura_cms/code_examples/configs/posteditor_config.js), 
+Доступный выбор зависит от настроек [конфига](/russian/old/1.perfectura_cms/code_examples/configs/posteditor_config.js), 
 в частности от размеров секции.
 
 ![](../static/post_editor/04.png)
